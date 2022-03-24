@@ -1,0 +1,192 @@
+@media only screen and (max-width: 992px){
+  .nvb{
+    margin: 0.5rem 0px;
+  }
+
+    .nav-link{
+      margin: auto;
+        font-size: 0.8rem;
+        width: 100%;
+        text-align: center;
+    }
+    .heromain{
+        font-size: 36.4px;
+        font-family: 'Abril Fatface', cursive;
+      }
+      .headline{
+       margin-top: 1.8rem !important;
+       margin: auto;
+       width: 300px;
+      }
+      .herotext{
+          height: 350px;
+      }
+      .herosub{
+        font-size: 9px;
+        padding: .4675rem 0;
+        line-height: 18px;
+      }
+      .heroimg{
+          margin: auto;
+          width: 465px;
+      }
+      .atc{
+        padding: 0.4rem 0.75rem;
+        font-size: 10px;
+      }
+      .best-head{
+        text-align: center;
+        font-size: 24.4px;
+         font-family: 'Abril Fatface', cursive;
+      }
+      .best-body{
+        text-align: center;
+        font-size: 12px;
+        line-height: 18px;
+        width: 640px;
+        margin: auto;
+      }
+      .gosimg ,  .microimg{
+        width: 240px;
+        margin: auto;
+    }
+    .gos-big , .micro-big{
+     font-size: 26.4px;
+     font-family: 'Abril Fatface', cursive;
+       
+    }
+    .gos-small , .micro-small{
+     font-size: 12px;
+     margin: auto;
+     line-height: 18px;
+    }
+    .gos-text , .micro-text{
+    text-align: left;
+    margin-top: 35px !important;
+    margin: auto;
+    width: 300px;
+    }
+    .gos-learn ,  .micro-learn{
+        font-size: 14px;
+    }
+    .blue-big , .pink-big{
+        font-size: 24.4px;
+          font-family: 'Abril Fatface', cursive;
+       }
+       .blue-small{
+        font-size: 12px;
+        margin: auto;
+        line-height: 18px;
+       }
+       .blue-learn{
+         font-size: 0.6rem;  
+         margin-top: 12px  !important;
+         padding: 5px 10px;
+       }
+       .blue-text{
+         text-align: right;
+        margin-top: 15px;
+
+       }
+       .pink-small{
+        font-size: 12px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+        line-height: 18px;
+       }
+       .pink-learn{
+         font-size: 0.6rem;  
+         margin-top: 12px !important;
+         margin: auto;
+         padding: 5px 10px;
+         text-align: center;
+       }
+       .pink-text{
+         text-align: left;
+        margin-top: 15px;
+       }
+       .blueimg{
+           width: 200px;
+           height: 300px;
+       }
+       .pinkimg{
+           width: 180px;
+           height: 300px;
+           margin-right: 100px;
+       }
+       .caard{
+        margin:auto;
+        width: 130px;
+      }
+      .card-img-top{
+          height: 8rem;
+      }
+      .card-title{
+          font-size: 16px;
+          margin-top: 0px !important;
+      }
+      .card-text{
+          font-size: 10px ;
+      }
+      .test-name{
+          font-size: 12px;
+      }
+      .testloc{
+          font-size: 10px;
+      }
+      .applyimg{
+          width: 280px;
+          padding-top: 40px;
+          padding-right: 40px;
+      }
+      .gos-big1{
+        font-size: 20.4px;
+        margin-top: 30px;
+       }
+       .gos-learn1{
+         font-size: 14px;
+       }    
+       .rarr{
+           width: 20px;
+       }
+       .client{
+        font-size: 26px;
+        text-align: center;
+        margin-bottom: 0px;
+      }
+
+      /* faq page */
+      .lfttext{
+        font-size: 25.4px;
+        margin: 20;
+        margin-top: 48px;
+       }
+       .faqimg{
+         margin: auto;
+         display: flex;
+         justify-content: center;
+         max-width: 240px;
+         margin-top: 10px;
+      }
+      .rgtbox{
+        margin: 15px;
+        text-align: left;
+        font-size: 12px;
+        line-height: 14px;
+        margin-top: 20px !important;
+   }
+   .herobtn{
+    padding: 6px 10px;
+    color: white;
+    background-color: rgb(33, 204, 10);
+}
+.contbox{
+  text-align: center;
+  line-height: 1.6rem;
+}
+.contmap{
+    width: 600px; 
+    height: 550px; 
+
+   }
+}

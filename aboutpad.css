@@ -1,0 +1,40 @@
+@media only screen and (max-width: 992px){
+    .header{
+        margin-top: 1.2rem;
+        margin-bottom: 1.2rem;
+        gap: 0rem 2.125rem ;
+    }
+    .nav-link{
+        font-size: 0.65rem;
+        width: 80px;
+    }   
+    .slideshow-container {
+        max-width: 620px;
+        height: 400px;
+     }
+     .mySlides{
+        width: 100%;
+     }
+     .sliderimg{
+        height: 400px;
+     }
+     .dot {
+        height: 7px;
+        width: 7px;
+        margin: 0 2px;
+        }
+    .best-body{
+        width: 520px;
+    }
+    .team{
+        border-radius: 50%;
+        border: none;
+        margin-bottom: 20px;
+        height: 90px;
+        width: 90px;
+     }
+     .timg{
+        font-weight: 500;
+        font-size: 12px;
+     }
+}

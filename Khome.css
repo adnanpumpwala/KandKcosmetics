@@ -1,0 +1,282 @@
+              .nvb{
+                margin: 0.5rem 0px;
+              }
+            .logo{
+                width: 6.25rem;
+                margin-left: 100px;
+            }
+            .firsticon{
+              padding-left: 300px;
+            }
+            .herotext{
+               background-color: #CBD6DA ;
+           }
+           .act{
+             text-decoration: underline;
+             text-underline-offset: .1875rem;
+             color: black;
+           }
+           .nav-link{
+             color: black;
+           }
+           .nav-link:hover{
+             color: black;
+           }
+            .heromain{
+              font-size: 92.4px;
+              font-family: 'Abril Fatface', cursive;
+            }
+            .headline{
+             margin-left: 5.625rem;
+             margin-top: 5.475rem;
+            }
+             .heroimg{
+              width: 1110px;
+              padding: 0px;
+              margin: 0px;
+            }
+            .herosub{
+              font-size: 16px;
+              padding: .9375rem 0;
+              line-height: 28px;
+            }
+            .atc{
+              padding: .75rem 1rem;
+              font-size: 16px;
+            }
+           .hiw{
+             display: inline;
+             vertical-align: baseline;
+             justify-content: space-between;
+           }
+
+             /* hero mob */
+           
+           .best-head{
+             text-align: center;
+             font-size: 62.4px;
+              font-family: 'Abril Fatface', cursive;
+           }
+           .best-body{
+             text-align: center;
+             font-size: 16px;
+             line-height: 28px;
+           }
+           .gos-big{
+            font-size: 62.4px;
+              font-family: 'Abril Fatface', cursive;
+           }
+           .gos-small{
+            font-size: 16px;
+            margin-top: 30px;
+            margin-bottom: 5px;
+            line-height: 28px;
+           }
+           .gos-learn{
+             color: rgb(6, 6, 114);
+             font-weight: 500;
+           }
+           .gos-text{
+             text-align: left;
+            margin-top: 55px;
+           }
+           .micro-big{
+            font-size: 62.4px;
+              font-family: 'Abril Fatface', cursive;
+           }
+           .micro-small{
+            font-size: 16px;
+            margin-top: 30px;
+            margin-bottom: 5px;
+            line-height: 28px;
+           }
+           .micro-learn{
+             color: rgb(6, 6, 114);
+             font-weight: 500;
+           }
+           .micro-text{
+             text-align: left;
+            margin-top: 55px;
+           }
+           .blue-big{
+            font-size: 62.4px;
+              font-family: 'Abril Fatface', cursive;
+           }
+           .blue-small{
+            font-size: 16px;
+            margin-top: 15px;
+            margin-bottom: 5px;
+            line-height: 28px;
+           }
+           .blue-learn{
+             color: rgb(255, 255, 255);
+             font-weight: 500;
+             margin-top: 16px;
+             padding: 10px 10px;
+             border: none;
+             background-color: #0F7BC3;
+           }
+           .blue-text{
+             text-align: right;
+            margin-top: 55px;
+            background-color: rgb(157, 219, 248);
+           }
+           .pink-big{
+            font-size: 62.4px;
+              font-family: 'Abril Fatface', cursive;
+           }
+           .pink-small{
+            font-size: 16px;
+            margin-top: 15px;
+            margin-bottom: 5px;
+            line-height: 28px;
+           }
+           .pink-learn{
+             color: rgb(255, 255, 255);
+             font-weight: 500;
+             margin-top: 16px;
+             padding: 10px 10px;
+             border: none;
+             background-color: #61001F;
+           }
+           .pink-text{
+             text-align: left;
+            margin-top: 55px;
+            background-color: rgb(255, 172, 255);
+           }
+           .blue{
+            background-color: rgb(157, 219, 248);
+           }
+           .pink{
+            
+            background-color: rgb(255, 172, 255);
+           }
+           .card-title{
+             font-style: italic;
+           }
+           .test-name{
+             font-weight: 500;
+           }
+           .gos-big1{
+            font-size: 32.4px;
+            margin-top: 90px;
+              font-family: 'Abril Fatface', cursive;
+           }
+           .gos-learn1{
+            color: rgb(240, 37, 30);
+             font-weight: 500;
+             font-size: 20px;
+           }
+           .caard{
+             width: 18rem;
+           }
+           .card-img-top
+           {
+             height: 14rem;
+           }
+           .client{
+             font-size: 22px;
+             color: #848686;
+           }
+           .nlimg{
+            background: linear-gradient(rgba(0, 0, 0, 0.4 ), rgba(0, 0, 0, 0)), url('nl2.jpeg');
+             box-sizing: border-box;
+             background-size: cover;
+             background-repeat: no-repeat;
+             height: 600px;
+           }
+           .nl-box{
+             margin-top: 220px;
+           }
+           .nl-head{
+            font-size: 62.4px;
+              font-family: 'Abril Fatface', cursive;
+              color: white;
+           }
+           .email{
+             width: 400px;
+             text-align: center;
+             padding: 3px;
+             margin-bottom: 26px;
+             border: none;
+           }
+           .email:focus{
+             border: none;
+             background-color: #B4755C;
+             color: rgb(255, 255, 255);
+           }
+           .emailbtn{
+             color: white;
+             background-color: black;
+             width: 100px;
+            font-size: 14px ;
+            border: none;
+            padding: 5px;
+           }
+           
+           .emailbtn:hover{
+            background-color: #B4755C;
+            color: rgb(255, 255, 255);
+           }
+        /* faq */
+        .header{
+          margin-top: 1.375rem;
+          margin-bottom: 1.375rem;
+          display: grid; 
+grid-template-columns: 1fr 1fr 1fr; 
+grid-template-rows: 1fr; 
+gap: 0rem 3.125rem ;
+text-align: center;
+grid-template-areas: 
+". . ."; 
+      }
+      .logo{
+          width: 6.25rem;
+      }
+      .herotext{
+         background-color: #CBD6DA ;
+     }
+     .act{
+       text-decoration: underline;
+       text-underline-offset: .1875rem;
+       color: black;
+     }
+     .nav-link{
+       color: black;
+     }
+     .nav-link:hover{
+       color: black;
+     }
+     .bgc{
+         background-color: #9cf3d9;
+     }
+     .lfttext{
+      font-family: 'Abril Fatface', cursive;
+      font-size: 62.4px;
+      margin: 50px;
+     }
+     .rgtbox{
+          margin: 70px;
+          text-align: left;
+          line-height: 2rem;
+     }
+     .herobtn{
+         border: none;
+         padding: 6px 10px;
+         color: white;
+         background-color: rgb(33, 204, 10);
+     }
+   /* faq end */
+   .contbox{
+     text-align: center;
+     line-height: 2.4rem;
+   }
+   
+   .contmap{
+    width: 1000px; 
+    height: 650px; 
+    border: none;
+   }
+   .rarr{
+     width: 38px;
+   }

@@ -1,0 +1,280 @@
+@media only screen and (max-width: 480px){
+  .nvb{
+    margin: 0.3rem 0px;
+  }
+.logo{
+    width: 4.25rem;
+    margin-left: 10px;
+}
+.nav-item{
+ width: 100%;
+ float: left;
+ text-align: left;
+
+}
+
+    .heromain{
+        font-size: 36.4px;
+        font-family: 'Abril Fatface', cursive;
+      }
+      .headline{
+       margin-top: 1.5rem !important;
+       margin: auto;
+       width: 300px;
+       
+      }
+      .herosub{
+        font-size: 14px;
+        padding: .9375rem 0;
+        line-height: 18px;
+      }
+      .heroimg{
+          float: left;
+          width: 390px;
+      }
+       .herotext{
+          height: 670px !important;
+      }
+      .atc{
+        padding: .75rem 1rem;
+        font-size: 14px;
+      }
+      .best-head{
+        text-align: center;
+        font-size: 26.4px;
+         font-family: 'Abril Fatface', cursive;
+      }
+      .best-body{
+        text-align: center;
+        font-size: 14px;
+        line-height: 18px;
+        width: 340px !important;
+        margin: auto;
+      }
+      .gosimg{
+          width: 300px;
+          margin-left: 48px !important;
+      }
+      .gos-big{
+       font-size: 26.4px;
+         font-family: 'Abril Fatface', cursive;
+         
+      }
+      .gos-small{
+       font-size: 14px;
+       margin: auto;
+       line-height: 18px;
+     
+      }
+      .gos-learn{
+        color: rgb(6, 6, 114);
+        font-weight: 500;
+     
+      }
+      .gos-text{
+        text-align: center !important;
+       margin-top: 55px;
+      }
+      .micro-big{
+       font-size: 26.4px;
+         font-family: 'Abril Fatface', cursive;
+      }
+      .micro-small{
+       font-size: 14px;
+       margin: auto;
+       line-height: 18px;
+      }
+      .micro-learn{
+        color: rgb(6, 6, 114);
+        font-weight: 500;
+      }
+      .micro-text{
+        text-align: center !important;
+       margin-top: 55px;
+      }
+      .microimg{
+          width: 280px;
+          margin-left: 50px !important;
+      }
+     
+      .blue-big{
+       font-size: 26.4px;
+         font-family: 'Abril Fatface', cursive;
+      }
+      .blue-small{
+       font-size: 14px;
+       margin: auto;
+       line-height: 18px;
+      }
+      .blue-learn{
+        color: rgb(255, 255, 255);
+        font-weight: 500;
+        margin-top: 16px;
+        padding: 10px 10px;
+        border: none;
+        background-color: #0F7BC3;
+      }
+      .blue-text{
+        text-align: center !important;
+       margin-top: 25px;
+       background-color: rgb(157, 219, 248);
+      }
+     
+      .pink-big{
+       font-size: 26.4px;
+         font-family: 'Abril Fatface', cursive;
+      }
+      .pink-small{
+       font-size: 14px;
+       margin-top: 15px;
+       margin-bottom: 5px;
+       line-height: 18px;
+      }
+      .pink-learn{
+        color: rgb(255, 255, 255);
+        font-weight: 500;
+        margin-top: 16px;
+        margin-bottom: 16px !important;
+        padding: 10px 10px;
+        border: none;
+        text-align: center;
+        background-color: #61001F;
+      }
+      .pink-text{
+        text-align: center !important;
+       margin-top: 55px;
+       background-color: rgb(255, 172, 255);
+      }
+      .pinkimg{
+        margin-left: 90px !important;
+      }
+      .blue{
+       background-color: rgb(157, 219, 248);
+       
+      }
+      .pink{
+       
+       background-color: rgb(255, 172, 255);
+      }
+      .cardcon{
+        margin: auto;
+      }
+      .caard{
+        margin-bottom: 10px !important;
+        width: 280px !important ;
+      }
+      .card-img-top{
+         height: 14rem !important;
+      }
+      .card-title{
+        font-style: italic;
+      }
+      .card-text{
+        font-size: 14px;
+        margin: auto;
+        line-height: 18px;
+      }
+      .test-name{
+        font-weight: 500;
+        padding-top: 10px;
+        margin-bottom: 0;
+      }
+      .testloc{
+          margin: 0;
+      }
+      .applyimg{
+          width: 270px;
+          margin-left: 40px;
+      }
+      .gos-big1{
+       font-size: 20.4px;
+       margin-top: 70px;
+         font-family: 'Abril Fatface', cursive;
+      }
+      .gos-learn1{
+       color: rgb(240, 37, 30);
+        font-weight: 500;
+        font-size: 18px;
+      }
+      .rarr{
+        width: 24px;
+      }
+      .client{
+        font-size: 26px;
+        color: #848686;
+        margin-bottom: 0px;
+      }
+      .nlimg{
+       background: linear-gradient(rgba(0, 0, 0, 0.4 ), rgba(0, 0, 0, 0)), url('nl2.jpeg');
+        box-sizing: border-box;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 230px;
+      }
+      .nl-box{
+        margin-top: 40px;
+      }
+      .nl-head{
+       font-size: 26.4px;
+         font-family: 'Abril Fatface', cursive;
+         color: white;
+      }
+      .email{
+        width: 220px;
+        text-align: center;
+        padding: 3px;
+        margin-bottom: 26px;
+        border: none;
+      }
+      .email:focus{
+        border: none;
+        background-color: #ec96b1;
+        color: rgb(77, 73, 73);
+      }
+      .emailbtn{
+        color: white;
+        background-color: black;
+        width: 100px;
+       font-size: 12px ;
+       border: none;
+       padding: 3.4px;
+      }
+      
+      .emailbtn:hover{
+       background-color: #ec96b1;
+       color: black;
+      }
+      .rights{
+          font-size: 12px;
+          margin-top: 5px;
+          padding-top: 3px;
+      }
+      .lfttext{
+        font-family: 'Abril Fatface', cursive;
+        font-size: 45.4px;
+        margin: 50px;
+       }
+       .faqimg{
+         margin: auto;
+         display: flex;
+         justify-content: center;
+         max-width: 320px;
+      }
+      .rgtbox{
+        margin: 30px;
+        text-align: center;
+        line-height: 2rem;
+        margin-top: 0px !important;
+   }
+   .contbox{
+    text-align:left !important;
+    margin: auto;
+    line-height: 2rem;
+  }
+  .contmap{
+    width: 300px; 
+    height: 450px; 
+
+   }
+ 
+}
